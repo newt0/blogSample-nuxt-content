@@ -1,5 +1,5 @@
 ---
-title: My Second Blog Post
+title: 全国の医学部に広がるAIサークル設立ブーム
 description: Learning how to use @nuxt/content to create a blog
 img: https://images.unsplash.com/photo-1588432415392-51f6e1a61d5b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80
 alt: my second blog post

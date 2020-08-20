@@ -1,5 +1,5 @@
 ---
-title: My favorite Blog Post
+title: Kernel Hongoとは？東大発AIインキュベーションコミュニティに応募しよう
 description: This is a description for a blog post
 img: https://images.unsplash.com/photo-1540066916271-41e339fd2f23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
 alt: my fifth blog post

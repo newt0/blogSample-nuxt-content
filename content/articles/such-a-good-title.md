@@ -1,5 +1,5 @@
 ---
-title: Such a good title
+title: 医師からIT業界という新しいキャリアの潮流
 description: This is the description for and article about Lorem Ipsum
 img: https://images.unsplash.com/photo-1571723141898-68dfa1e50431?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
 alt: Article 6

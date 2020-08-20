@@ -1,5 +1,5 @@
 ---
-title: Some Interesting title
+title: 【最強東大医学部生】在学中に8億円でExitした起業家に密着
 description: Learning how to use @nuxt/content to create a blog again
 img: https://images.unsplash.com/photo-1588336271629-1704e27ef8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2158&q=80
 alt: nice image
