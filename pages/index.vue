@@ -32,7 +32,7 @@
       </li>
     </ul>
     <footer class="flex justify-center border-gray-500 border-t-2">
-      <p class="mt-4">
+      <!-- <p class="mt-4">
         Created by
         <a
           href="https://twitter.com/debs_obrien"
@@ -46,7 +46,7 @@
           >tutorial</a
         >
         for how to build it.
-      </p>
+      </p> -->
     </footer>
   </div>
 </template>
