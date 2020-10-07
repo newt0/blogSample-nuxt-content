@@ -68,7 +68,9 @@ export default {
         theme: 'prism-themes/themes/prism-material-oceanic.css'
       }
     },
-    nestedProperties: ['author.name']
+    nestedProperties: ['author.name'],
+    // title と description だけを検索
+    fullTextSearchFields: ['title', 'description']
   },
   /*
    ** Build configuration
